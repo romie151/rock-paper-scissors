@@ -1,0 +1,21 @@
+body {
+    background: url('ro ck-paper-scissors.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgb(71, 154, 160);
+    background-repeat: no-repeat;
+    background-size: 75% 100%;
+
+}
+
+div{
+    border: 2px solid white;
+}
+
+h1{
+    /* color: blue; */
+}
+
+img {
+    /* border: 2em solid white; */
+}
